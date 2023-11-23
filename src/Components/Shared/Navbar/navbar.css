@@ -1,0 +1,24 @@
+#nav_main{
+    width: 100vh;
+    position: sticky;
+    margin-top: 0;
+    background: white;
+    box-shadow: -4px 6px 4px -1px rgba(0, 0, 0, 0.29);
+}
+
+.nav_flex{
+display: flex;
+justify-content: space-between;
+padding: 0 5px 0 5px;
+margin-right: auto;
+margin-left: auto;
+
+}
+.banner {
+    display: flex;
+    justify-content: space-evenly;
+}
+.banner-image img{
+    width: 50%;
+    height: 50%;
+}

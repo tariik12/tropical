@@ -1,0 +1,14 @@
+.adventure{
+    display: flex;
+    justify-content: space-evenly;
+}
+.adventure_image{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 2px;
+}
+
+.text_huf{
+width: 50%;
+}
